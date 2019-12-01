@@ -30,3 +30,13 @@
 **Link to work:** _pending_
 
 **Link to Tweet** https://twitter.com/StephenVNelson/status/1200664648065748993?s=20
+
+### Day 4: November 30, 2019
+
+**Today's Progress**: Posted ads for available apartments on FB and Craigslist today. Automatically :) I just pressed a button and there it went. I added functionality to have it randomize phrases so it isn't all the same every time. We'll see what works best. I also did a JS exercism.
+
+**Thoughts:** I made some dumb mistakes while I was coding. Like including an empty string in an array where I was sampling my project descriptions etc. I learned about splice, and slice in JS. I am not sure about how regularly I'll use those methods but hey they exist. 
+
+**Link to work:** _pending_
+
+**Link to Tweet** (tweet)[https://twitter.com/StephenVNelson/status/1200976915416305664?s=20]
