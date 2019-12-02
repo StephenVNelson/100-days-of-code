@@ -35,8 +35,18 @@
 
 **Today's Progress**: Posted ads for available apartments on FB and Craigslist today. Automatically :) I just pressed a button and there it went. I added functionality to have it randomize phrases so it isn't all the same every time. We'll see what works best. I also did a JS exercism.
 
-**Thoughts:** I made some dumb mistakes while I was coding. Like including an empty string in an array where I was sampling my project descriptions etc. I learned about splice, and slice in JS. I am not sure about how regularly I'll use those methods but hey they exist. 
+**Thoughts:** I made some dumb mistakes while I was coding. Like including an empty string in an array where I was sampling my project descriptions etc. I learned about splice, and slice in JS. I am not sure about how regularly I'll use those methods but hey they exist.
 
 **Link to work:** _pending_
 
 **Link to Tweet** (tweet)[https://twitter.com/StephenVNelson/status/1200976915416305664?s=20]
+
+### Day 5: December 1, 2019
+
+**Today's Progress**: Day 5: After spending a stupid amount of time circumventing Chrome/FB notifications in Capybara, I added an adorable modal for my roommate match site. I am working on adding enough security so I can post it publicly show you all my progress!
+
+**Thoughts:** It's a bit discouraging how much time a little thing can suck out of your day. I still don't really understand what Capybara::Drive is supposed to mean. I know it has something to do with nested classes or modules, but I'm still not really able to understand the connection in the code. Also, I made a carousel from scratch the other day only to learn that bootstrap comes with easy to setup carousels out of the box. **facepalm**
+
+**Link to work:** _pending_
+
+**(Link to Tweet)[https://twitter.com/StephenVNelson/status/1201351094053437440?s=20]**
