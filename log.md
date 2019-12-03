@@ -10,6 +10,7 @@
 
 **Link to Tweet**
 
+---
 
 ### Day 2: November 28, 2019
 
@@ -21,6 +22,8 @@
 
 **Link to Tweet** https://twitter.com/StephenVNelson/status/1200247348674195456?s=20
 
+---
+
 ### Day 3: November 29, 2019
 
 **Today's Progress**: Stressed myself the hell out trying to finish my automated Craigslist posting, only to figure out auto posting on FB was WAY harder to figure out. literally could have posted 100 thousand things in that time but somehow this feels better
@@ -30,6 +33,8 @@
 **Link to work:** _pending_
 
 **Link to Tweet** https://twitter.com/StephenVNelson/status/1200664648065748993?s=20
+
+---
 
 ### Day 4: November 30, 2019
 
@@ -41,6 +46,8 @@
 
 **Link to Tweet** (tweet)[https://twitter.com/StephenVNelson/status/1200976915416305664?s=20]
 
+---
+
 ### Day 5: December 1, 2019
 
 **Today's Progress**: Day 5: After spending a stupid amount of time circumventing Chrome/FB notifications in Capybara, I added an adorable modal for my roommate match site. I am working on adding enough security so I can post it publicly show you all my progress!
@@ -51,6 +58,7 @@
 
 **(Link to Tweet)[https://twitter.com/StephenVNelson/status/1201351094053437440?s=20]**
 
+---
 
 ### Day 6: December 2, 2019
 
