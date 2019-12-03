@@ -50,3 +50,14 @@
 **Link to work:** _pending_
 
 **(Link to Tweet)[https://twitter.com/StephenVNelson/status/1201351094053437440?s=20]**
+
+
+### Day 6: December 2, 2019
+
+**Today's Progress**: Day 6: I've been interested in "Civic Hacking" while living in Chicago. The main ideas are 1) civic improvement thru tech 2) Open-source. Today I created project filtering for @HackForLA. Coming to their site soon! http://hackforla.org
+
+**Thoughts:** CSS takes forever to meddle with! Sometimes I enjoy it, but I mostly hate how long it takes to adjust everything. I also looked into BEM method of class naming/organizing. I like the approach and I think I will utilize it from now on.  
+
+**Link to work:** www.hackforla.org
+
+**(Link to Tweet)[https://twitter.com/StephenVNelson/status/1201686447847137280?s=20]**
