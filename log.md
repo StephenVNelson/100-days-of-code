@@ -44,7 +44,7 @@
 
 **Link to work:** _pending_
 
-**Link to Tweet** (tweet)[https://twitter.com/StephenVNelson/status/1200976915416305664?s=20]
+**Link to Tweet** [tweet](https://twitter.com/StephenVNelson/status/1200976915416305664?s=20)
 
 ---
 
@@ -56,7 +56,7 @@
 
 **Link to work:** _pending_
 
-**(Link to Tweet)[https://twitter.com/StephenVNelson/status/1201351094053437440?s=20]**
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1201351094053437440?s=20)**
 
 ---
 
@@ -68,4 +68,4 @@
 
 **Link to work:** www.hackforla.org
 
-**(Link to Tweet)[https://twitter.com/StephenVNelson/status/1201686447847137280?s=20]**
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1201686447847137280?s=20)**
