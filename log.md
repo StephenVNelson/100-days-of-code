@@ -69,3 +69,23 @@
 **Link to work:** www.hackforla.org
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1201686447847137280?s=20)**
+
+### Day 7: December 3, 2019
+
+**Today's Progress**: Day 7: Alright, I messed up. I only actually coded for 30 minutes because I spent most my time going through a MERN stack tutorial. But I repented and coded for 2 hours today (Day 8). Forgive me?
+
+**Thoughts:** Going through a tutorial is really slow because I am taking notes while I go. I did learn that NoSQL is often used for big data because it's much faster than relational databases. Now I'm all of the sudden very interested in NoSQL.
+
+**Link to work:** ...
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1202462688837681152?s=20)**
+
+### Day 8: December 4, 2019
+
+**Today's Progress**: Day 8: I spent stupid amounts of time trying (and succeeding) to justify having an HTML input with a date type rather than 3 different selectors for day/month/year, just so I can take advantage of having pretty date pickers that come with Chrome and Firefox.
+
+**Thoughts:** The complex thing here is that I am accepting strings as the input for what will be date datatypes. So, I have this weird dance of converting strings to Date in the controller before it's sent to the server for further validation. I settled on converting correctly formatted strings to dates, and letting incorrect/empty strings pass by so they can fail the validations. I will continue to work on it tomorrow
+
+**Link to work:** __pending__
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1202464303200100352?s=20)**
