@@ -89,3 +89,13 @@
 **Link to work:** __pending__
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1202464303200100352?s=20)**
+
+### Day 9: December 5, 2019
+
+**Today's Progress**: Day 9: I spent 7 hours relearning stuff I learned about a year and a half ago. (Rails nested attributes, nested forms, etc.) Can you believe it!? I'm putting all this stuff on flashcards so I never have to learn it again.
+
+**Thoughts:** Today feels like a failure. Trodding over the same stuff over again? Bummer. I have been doing flash cards every morning for the past few months to help me remember everything I learn in programming. I hope that will prove to be the remedy for this type of thing. 
+
+**Link to work:** __pending__
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1202780466379513856?s=20)**
