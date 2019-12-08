@@ -109,3 +109,13 @@
 **Link to work:** __pending__
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1202780466379513856?s=20)**
+
+### Day 11: December 7, 2019
+
+**Today's Progress**: Day 11: I have had little to no opportunity to go through code written by others, but thanks to #HackForLA I get to do all kinds of headscratching! I think being able to read code from others will make me a substantially better programmer and I already feel like I'm learning 10x the things I would if I were just learning on my own #100DaysOfCode
+
+**Thoughts:** Like I said above, reading code from better this other programmer who clearly has way more experience than me has been really good. I've learned a little about jQuery AJAX calls and how it's way better than just plain JS because it formats everything correctly from the different browsers.
+
+**Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1203571280139735040?s=20)**
