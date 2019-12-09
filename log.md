@@ -119,3 +119,13 @@
 **Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1203571280139735040?s=20)**
+
+### Day 12: December 8, 2019
+
+**Today's Progress**: Day 12: Today is AWESOME and I am JACKED! After googling plenty I now understand 100% of the code written by a fellow programmer at @HackForLA and it's brilliant. I'm V excited to contribute. Also got an idea for a news app that has my heart pumping. Great day. #100DaysOfCode
+
+**Thoughts:** Today I learned... the second argument in a JQuery function can be html. So the guy I am working with created a template for each project at HackForLA and hid it inside <script> tags and saved that html in a JQuery object and stored it in a variable. He then used that variable as his second argument for a call into a JQuery function then proceeded to change all of the values based on the data!
+
+**Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1203571280139735040?s=20)**
