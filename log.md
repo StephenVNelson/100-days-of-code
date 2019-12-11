@@ -129,3 +129,13 @@
 **Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1203571280139735040?s=20)**
+
+### Day 13: December 9, 2019
+
+**Today's Progress**: Day 13:  #100DaysOfCode
+
+**Thoughts:** 
+
+**Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1203571280139735040?s=20)**
