@@ -130,12 +130,32 @@
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1203571280139735040?s=20)**
 
-### Day 13: December 9, 2019
+### Day 14: December 9, 2019
 
-**Today's Progress**: Day 13:  #100DaysOfCode
+**Today's Progress**: Day 14 & 15 & 16: Three days of researching ways to save a JSON file from a github API request to give our Jekyll site "dynamic-ness". I think we've decided on Github actions but it's hella confusing to me. If anybody would like to assists, I wouldn't mind. #100DaysOfCode
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
 
-**[Link to Tweet](https://twitter.com/StephenVNelson/status/1203571280139735040?s=20)**
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1205066500563824640?s=20)**
+
+### Day 15: December 10, 2019
+
+**Today's Progress**: Day 14 & 15 & 16: Three days of researching ways to save a JSON file from a github API request to give our Jekyll site "dynamic-ness". I think we've decided on Github actions but it's hella confusing to me. If anybody would like to assists, I wouldn't mind. #100DaysOfCode
+
+**Thoughts:**
+
+**Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1205066500563824640?s=20)**
+
+### Day 16: December 11, 2019
+
+**Today's Progress**: Day 14 & 15 & 16: Three days of researching ways to save a JSON file from a github API request to give our Jekyll site "dynamic-ness". I think we've decided on Github actions but it's hella confusing to me. If anybody would like to assists, I wouldn't mind. #100DaysOfCode
+
+**Thoughts:**
+
+**Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1205066500563824640?s=20)**
