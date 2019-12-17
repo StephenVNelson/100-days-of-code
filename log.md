@@ -159,3 +159,23 @@
 **Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1205066500563824640?s=20)**
+
+### Day 17: December 12, 2019
+
+**Today's Progress**: Day 17: The problem solving continues. With some help from @sam I was able to make my first successful Github action! Now I just need to figure out 1) how to save the data as a JSON file and do it all through docker. Progress is slow but inevitable. #100DaysOfCode
+
+**Thoughts:**
+
+**Link to work:** [Looking up most recent data on github projects](https://github.com/hackforla/github-api-test)
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1205350464620875776?s=20)**
+
+### Day 18, 19, 20, 21: December 13, 14, 15, 16, 2019
+
+**Today's Progress**: Day 18 & 19 & 20 & 21: Yikes. I have been coding but in misery. Most of my time was spent refactoring my auto-craigslist-poster and do I feel proud? No, just bewildered that it took me so long. #100DaysOfCode
+
+**Thoughts:** I am just totally spent. I don't feel good at all. I became obsessed with refactoring in the cleanest way possible and it turns out I just wasted a bunch of time because I would start to code in ways that aren't logical/possible so I would have to turn back around and start over again. I think this happened because I wasn't doing TDD. wow. crazy.
+
+**Link to work:** https://github.com/StephenVNelson/Auto-Ad-Post
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1206729246195929088?s=20)**
