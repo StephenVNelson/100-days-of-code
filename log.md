@@ -179,3 +179,53 @@
 **Link to work:** https://github.com/StephenVNelson/Auto-Ad-Post
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1206729246195929088?s=20)**
+
+### Day 22: December 17, 2019
+
+**Today's Progress**: Day 22: Spent my hour adjusting some CSS to fit in a different part of a web page. There are few things as daunting as being handed a massive CSS file and just getting to know the styling one line at a time. #100DaysOfCode
+
+**Thoughts:** Something I didn't think about but definitely need to implement is going through and deleting classes in the chrome browser so i can see how everything changes.
+
+**Link to work:** [Hack for LA Website](https://github.com/hackforla/website)
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1206729246195929088?s=20)**
+
+### Day 23: December 18, 2019
+
+**Today's Progress**: Day 23: I gained a stronger testimony about the importance of naming variables in a descriptive way. I got some code from online as a boilerplate and I had to rewrite everything because it was all named a, b, c, d... It's just too many variables! #100DaysOfCode
+
+**Thoughts:**
+
+**Link to work:** [Hack for LA Website](https://github.com/hackforla/website)
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1207849653485498369?s=20)**
+
+### Day 24: December 19, 2019
+
+**Today's Progress**: Day 24: The amount of effort it takes to change the styling of a select button is straight up comical. I've taken my project to what I deem, the functional eyesore stage. Now accepting all submissions of wisdom on how to improve the aesthetic. #100DaysOfCode
+
+**Thoughts:** I can't beleive it's day 24. I feel like I have not at all progressed where I want to. I want to have more goal oriented coding time rather than just doing things that feel obligatory.
+
+**Link to work:** [Hack for LA Website](https://github.com/hackforla/website)
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1207849217995132929?s=20)**
+
+### Day 25: December 20, 2019
+
+**Today's Progress**: Day 25: Why has nobody told me about electron before!? Back when ruby was the only thing I knew I looked all over for a way to create a GUI with ruby code and I always came up with nothing. This makes me excited because there are plenty of personal apps that I would like to have for myself without having to deal with a browser #100DaysOfCode
+
+**Thoughts:** It seems that it is very hard to get the time in that I want for coding. I keep on getting interrupted by so many things, and even then I feel like I am not progressing as fast as I would like.
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1208939430167232512?s=20)***
+
+### Day 26: December 21, 2019
+
+**Today's Progress**: Day 26: Second day of learning electron because I finally finished the tutorial videos I was following, only to learn a bit of it was outdated. Was it worth it? Can you work it? Put your thing down, flip it and reverse it? #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1208939590880415744?s=20)**
+
+### Day 27: December 22, 2019
+
+**Today's Progress**: Day 27: I want to show my progress in things. I feel like I must be afraid to actually produce and publish code, but if I don't actually write code then I think this #100daysofCode thing isn't going to help me that much. I'll post my code tomorrow.
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1208939673134845953?s=20)**
