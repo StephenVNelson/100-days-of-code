@@ -229,3 +229,13 @@
 **Today's Progress**: Day 27: I want to show my progress in things. I feel like I must be afraid to actually produce and publish code, but if I don't actually write code then I think this #100daysofCode thing isn't going to help me that much. I'll post my code tomorrow.
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1208939673134845953?s=20)**
+
+### Day 28: December 23, 2019
+
+**Today's Progress**: Day 28: Big discovery today! You can store html in <template> tags and the browser will totally ignore it, then you can use JS to add that code with your own modifications! I'm using them like little components and its a BLAST #100DaysOfCode
+
+**Thoughts:** Today was the most fun I've had in a while coding. I love using electron because I feel like it gives me permission to stop using so many dependancies and make a functional app with the basics... I can't explain why, it just does. aight? I was doing great until I ran into a bit of road block because there is apparently security vulnerabilities with making electron apps the old way by importing modules into the render process. So now there is this weird circuitous way of doing things that is really confusing to me. I hate losing momentum! I just wanna make something!
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1209372294151200769?s=20)***
+
+**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
