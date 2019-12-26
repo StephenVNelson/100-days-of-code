@@ -239,3 +239,33 @@
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1209372294151200769?s=20)***
 
 **Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
+
+### Day 29: December 24, 2019
+
+**Today's Progress**: Day 29: I like, don't love documentation sometimes. Electron docs say don't turn on node capability for the renderer process for security reasons but then says nothing about how you're supposed to use icp to send signals to the main process. I figured it out eventually... but took me all day. #100DaysOfCode
+
+**Thoughts:**  Coded until I got confused about how to attach a function to an event listener to an object that doesn't exist yet etc. etc.. Functional programming is a slightly different headspace from the object oriented programming I'm used to in ruby but I am really enjoying how versatile it can be.
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1210118641217179649?s=20)***
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 30: December 25, 2019
+
+**Today's Progress**: Day 30: Just finished a month of #100DaysOfCode and while I've had A LOT of fun the past few days using electron I don't feel like I learned/accomplished as much as I would like. So, I'm making a tasks/goals app to remedy that ;) So far you can just add tasks.
+
+**Thoughts:** Ok, I have really really enjoyed working outside of frameworks. Just me and a lot of javascript, which is so refreshing! It is taking me a little while to figure things out but I feel like I am learning a lot by doing and maintining a great momentum because I don't have to learn norms of different libraries just to code.
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1210118771668471808?s=20)***
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 31: December 26, 2019
+
+**Today's Progress**: Day 31:  #100DaysOfCode
+
+**Thoughts:**
+
+**[Link to Tweet]()***
+
+**Link to work:** []()
