@@ -262,10 +262,10 @@
 
 ### Day 31: December 26, 2019
 
-**Today's Progress**: Day 31:  #100DaysOfCode
+**Today's Progress**: Day 31: It took 5 hours to add the functionality to automatically post all of my apartments for sale on FB Marketplace (while deleting old posts so I'm not spamming). That's surprisingly fast for me. I feel like I'm getting smarter about finding elements on the DOM. #100DaysOfCode
 
-**Thoughts:**
+**Thoughts:** A whole day. That's how long it took. Should I feel bad? I don't know. It's something I knew I had to do. I am a little worried. Am I progressing fast enough? Will I be good enough to get a job in the near future? I hope so.
 
-**[Link to Tweet]()***
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1210400388030943232?s=20)***
 
-**Link to work:** []()
+**Link to work:** [Auto Add Post](https://github.com/StephenVNelson/Auto-Ad-Post)
