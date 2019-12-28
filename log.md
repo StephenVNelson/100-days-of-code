@@ -216,7 +216,7 @@
 
 **Thoughts:** It seems that it is very hard to get the time in that I want for coding. I keep on getting interrupted by so many things, and even then I feel like I am not progressing as fast as I would like.
 
-**[Link to Tweet](https://twitter.com/StephenVNelson/status/1208939430167232512?s=20)***
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1208939430167232512?s=20)**
 
 ### Day 26: December 21, 2019
 
@@ -236,7 +236,7 @@
 
 **Thoughts:** Today was the most fun I've had in a while coding. I love using electron because I feel like it gives me permission to stop using so many dependancies and make a functional app with the basics... I can't explain why, it just does. aight? I was doing great until I ran into a bit of road block because there is apparently security vulnerabilities with making electron apps the old way by importing modules into the render process. So now there is this weird circuitous way of doing things that is really confusing to me. I hate losing momentum! I just wanna make something!
 
-**[Link to Tweet](https://twitter.com/StephenVNelson/status/1209372294151200769?s=20)***
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1209372294151200769?s=20)**
 
 **Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
 
@@ -246,7 +246,7 @@
 
 **Thoughts:**  Coded until I got confused about how to attach a function to an event listener to an object that doesn't exist yet etc. etc.. Functional programming is a slightly different headspace from the object oriented programming I'm used to in ruby but I am really enjoying how versatile it can be.
 
-**[Link to Tweet](https://twitter.com/StephenVNelson/status/1210118641217179649?s=20)***
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1210118641217179649?s=20)**
 
 **Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
 
@@ -256,7 +256,7 @@
 
 **Thoughts:** Ok, I have really really enjoyed working outside of frameworks. Just me and a lot of javascript, which is so refreshing! It is taking me a little while to figure things out but I feel like I am learning a lot by doing and maintining a great momentum because I don't have to learn norms of different libraries just to code.
 
-**[Link to Tweet](https://twitter.com/StephenVNelson/status/1210118771668471808?s=20)***
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1210118771668471808?s=20)**
 
 **Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
 
@@ -266,6 +266,16 @@
 
 **Thoughts:** A whole day. That's how long it took. Should I feel bad? I don't know. It's something I knew I had to do. I am a little worried. Am I progressing fast enough? Will I be good enough to get a job in the near future? I hope so.
 
-**[Link to Tweet](https://twitter.com/StephenVNelson/status/1210400388030943232?s=20)***
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1210400388030943232?s=20)**
 
 **Link to work:** [Auto Add Post](https://github.com/StephenVNelson/Auto-Ad-Post)
+
+### Day 32: December 27, 2019
+
+**Today's Progress**: Day 31: I know have CR*D functionality for my goals app! This has been so fun to develop because it's all composed of javascript that I'm making up off the top of my head. Feels so good to take a break from the constant learning curves of new APIs #100DaysOfCode
+
+**Thoughts:** I have a bad habit of coding in my head. It gets to a point where I start to panic a little bit because I can't figure out what I need to code. I need to get in the habit of writing psudocode just to get all of my thoughts out. It's so much less stressful that way.
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1211034337468006400?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
