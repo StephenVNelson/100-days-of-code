@@ -272,10 +272,30 @@
 
 ### Day 32: December 27, 2019
 
-**Today's Progress**: Day 31: I know have CR*D functionality for my goals app! This has been so fun to develop because it's all composed of javascript that I'm making up off the top of my head. Feels so good to take a break from the constant learning curves of new APIs #100DaysOfCode
+**Today's Progress**: Day 32: I know have CR*D functionality for my goals app! This has been so fun to develop because it's all composed of javascript that I'm making up off the top of my head. Feels so good to take a break from the constant learning curves of new APIs #100DaysOfCode
 
 **Thoughts:** I have a bad habit of coding in my head. It gets to a point where I start to panic a little bit because I can't figure out what I need to code. I need to get in the habit of writing psudocode just to get all of my thoughts out. It's so much less stressful that way.
 
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1211034337468006400?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 33: December 28, 2019
+
+**Today's Progress**: Day 33: I finished the update functionality! now I have full CRUD for my goals application. I'm very excited to show everyone but I still have a bit more to do before my big reveal. #100DaysOfCode
+
+**Thoughts:** There was a bit of confusion about how I should handle data. I think I may be storing too much of the information in the html of the project. hmmmm.... I think I should rethink how I'm doing it.
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1211814159706255360?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 34: December 29, 2019
+
+**Today's Progress**: Day 34: I've been researching for a few hours and I hate it! All the good momentum stops because of learning entirely new APIs. I tried to fall asleep after giving up but it was bothering me so much that I woke up and worked on it again. I figured it out!  #100DaysOfCode
+
+**Thoughts:**
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1211814211388502022?s=20)**
 
 **Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
