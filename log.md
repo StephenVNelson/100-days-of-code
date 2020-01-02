@@ -299,3 +299,50 @@
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1211814211388502022?s=20)**
 
 **Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 35: December 30, 2019
+
+**Today's Progress**: Day 35: learned about git rebasing. It basically takes your code that may be behind a certain branch and attaches it to the end of said branch. It's a shorter way around pulling code then pushing it back out again. #100DaysOfCode
+
+**Thoughts:** Today I learned a lesson about getting too far ahead of one's self in collaborative projects. Normally I'm working on my own so I can get away with including large swaths of code into a commit and no one is the wiser. But in this case I had to go back, get rid fo some functionality and return my code to a much earlier state in order to keep things in a logical order with the website build.
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1212780097230405632?s=20)**
+
+**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
+
+### Day 36: December 31, 2019
+
+**Today's Progress**:
+* Started building tests for my electron app (my first time using mocha)
+
+**Thoughts:** Day 36: Before I started really getting into these JS projects I read all of You Don't Know Javascript. While I disagree with his sometimes circuitous route to the point, I'm very grateful that I have some real JS literacy! It helps so much in navigating other libraries and APIs. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1212781114839797760?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 37: January 1, 2020
+
+**Today's Progress**:
+* Went through Pluralsight course on Promises and async/await
+* Duplicated a successful Github action that runs on every push to a repository
+* got stumped on running Github actions on a certain schedule
+* submitted my second ever stack overflow issue
+
+**Thoughts:** Day 37: I literally did it exactly the way they say to do it in the documentation, and it's still not working. If I change the code to 'on: [push]' it works swimmingly. please help. #githubactions #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1211814211388502022?s=20)**
+
+**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
+
+### Day 38: January 2, 2020
+
+**Today's Progress**:
+* Changed Promise based tests to async/await
+* Deliberated with myself about how to maintain a test db
+
+**Thoughts:** Day 38: My DB for my electron app is literally just a JSON file. Almost guaranteed to lead to a headache and a new appreciation for SQL/NoSQL. But I'm enjoying running into "building from scratch" problems just be be like "oh! that's why we do it that way!" #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1212784979517665280?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
