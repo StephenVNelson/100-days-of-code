@@ -346,3 +346,86 @@
 **[Link to Tweet](https://twitter.com/StephenVNelson/status/1212784979517665280?s=20)**
 
 **Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 39: January 3, 2020
+
+**Today's Progress**:
+* Worked on adding auto-delete FB posts
+* Learned about the "select an element in the page to inspect it tool". Comes in real handy while "testing"
+
+**Thoughts:** Day 39: I got to a point to where I was absolutely certain that the code I was writing was correct, and that the computer had grown a mind of its own and was just being obstinate. I'm sure you all know how this story ends. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1215206503906299904?s=20)**
+
+**Link to work:** [Auto Add Post](https://github.com/StephenVNelson/Auto-Ad-Post)
+
+### Day 40: January 4, 2020
+
+**Today's Progress**:
+* Spent absurd amounts of hours trying to auto delete FB posts.
+
+**Thoughts:** Day 40: The asynchronous nature is making things unpredictable. I never did finish. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1215206627319484417?s=20)**
+
+**Link to work:** [Auto Add Post](https://github.com/StephenVNelson/Auto-Ad-Post)
+
+### Day 41: January 5, 2020
+
+**Today's Progress**:
+* Worked on github actions again
+* Removed format based on feedback
+
+**Thoughts:** Day 41: I have now successfully made a Github action that will do an API call and update out DB file on a schedule! Now I can say out site is only semi-static! #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1215206719552245767?s=20)**
+
+**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
+
+### Day 42: January 6, 2020
+
+**Today's Progress**:
+* Continued research for Github Actions
+
+**Thoughts:** Day 42: Met up with the cats at HackForLA. A guy I talked to who is way smarter than I just got out of a Bootcamp. My goal is to be smarter than every person who just got out of a Bootcamp. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1215206858689957889?s=20)**
+
+**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
+
+### Day 43: January 7, 2020
+
+**Today's Progress**:
+* laid out possible OLOO redesign of backend code
+
+**Thoughts:** Day 43: Today was mostly daydreaming and writing pseudo-code for a possible redesign of my backend code. #theLifeChangingMagicOfTidyingUp #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1215207004043526148?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 44: January 8, 2020
+
+**Today's Progress**:
+* Completely redesigned backend code to use OLOO design taught by Kyle Simpson in YDKJS
+* Developed entire backend with TDD
+* Cleaned up code by just exporting single objects in various modules that are linked to each other
+* converted file read/write methods to be async.
+* converted tests to be async
+
+**Thoughts:** Day 44: Guys! Today I completely redid my code for my goals app so my CRUD actions use conventions almost identical to Rails apps. I did it using the OLOO design taught by Kyle Simpson. Seriously my code is beautiful and I feel v proud. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1215207091515748352?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 45: January 9, 2020
+
+**Today's Progress**:
+*
+
+**Thoughts:** Day 45:  #100DaysOfCode
+
+**[Link to Tweet]()**
+
+**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
