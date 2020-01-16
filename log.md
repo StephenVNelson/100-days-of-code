@@ -422,9 +422,78 @@
 ### Day 45: January 9, 2020
 
 **Today's Progress**:
+* Created a latest method for Tasks
+
+**Thoughts:** Day 45: Writing an app with TDD reminds of filmmaking. The test is the script, the code is the production, and the refactoring is post production. Today I did the equivalent of writing half a scene. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1217601133939585025?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 46: January 10, 2020
+
+**Today's Progress**:
+* Read through some documentation for Github actions
+
+**Thoughts:** Day 46: Again, not a lot of time today but I was able to spend some time going through the Github actions documentation. What helps with learning new APIs is rewriting what the docs say in succinct nested bullet points. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1217601569148944384?s=20)**
+
+**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
+
+### Day 47: January 11, 2020
+
+**Today's Progress**:
+* Read through some documentation for Github actions
+
+**Thoughts:** Day 47: Im not sure if anybody else experiences this phenomena, but when I'm learning something new and trying to implement it in my own way on a deadline, I am filled with this strong nervous energy that I have to take frequent breaks to decompress. No matter, I finally created my own Github action! #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1217601872468402176?s=20)**
+
+**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
+
+### Day 48: January 12, 2020
+
+**Today's Progress**:
+* Presented Github action
+* Created #where method
+* Worked on creating validations
+
+**Thoughts:** Day 48: I presented my Github action to the group today and I feel great. Also continued to make backend functionality for my Goals App. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1217601983600680961?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 49: January 13, 2020
+
+**Today's Progress**:
+* Researched React education paths
+* Refactored Github action
+
+**Thoughts:** Day 49: I tutor students in programming/web development. Today my student brought me back to the first CS class I ever took at Northwestern. Creating loops boggled my brain so badly I think I was pretty frustrating to the TAs. Now they seems so self evident. I'm appreciating 1) how hard this stuff can be to learn for the first time 2) how far I've come. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1217603318605742080?s=20)**
+
+**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
+
+### Day 50: January 14, 2020
+
+**Today's Progress**:
+* Completely restructured Goals app by separating the concerns of Validations from Instances of objects.
+
+**Thoughts:** Day 50: Holy crap. I am halfway done with #100DaysOfCode. To be honest I am disappointed I haven't made a React App yet. So, new goal: Complete a React app before I finish by 100 days are up.
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1217603669933228034?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 51: January 15, 2020
+
+**Today's Progress**:
 *
 
-**Thoughts:** Day 45:  #100DaysOfCode
+**Thoughts:** Day 51:  #100DaysOfCode
 
 **[Link to Tweet]()**
 
