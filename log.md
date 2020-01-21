@@ -491,10 +491,58 @@
 ### Day 51: January 15, 2020
 
 **Today's Progress**:
-*
+* Day was shot
 
-**Thoughts:** Day 51:  #100DaysOfCode
+**Thoughts:** Day 51: Did nothing today #100DaysOfCode
 
-**[Link to Tweet]()**
+### Day 52: January 16, 2020
 
-**Link to work:** [Hack for LA Website](https://github.com/StephenVNelson/electron-goals)
+**Today's Progress**:
+* Slept all day because I felt depressed because I learned I may have cancer.
+
+### Day 53: January 17, 2020
+
+**Today's Progress**:
+* Learned to set environment variable before running commands
+* added environment variable for every time I run a test so I can switch to the test DB
+
+**Thoughts:** Day 53: It feels so much better coming up with your own solutions by stringing together disparate ideas researched online rather than praying that somebody answers your exact problem on stack-overflow. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1219490606923182080?s=20)**
+
+**Link to work:** [[Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 54: January 18, 2020
+
+**Today's Progress**:
+* Created integration specs for electron app
+
+**Thoughts:** Day 54: Writing tests can feel like a real momentum killer, but today I was able to feel totally relaxed about making huge changes to my code. I added two objects in the prototype hierarchy and had everything working again in 20 minutes :) #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1219491217198571522?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 55: January 19, 2020
+
+**Today's Progress**:
+* Finished troubleshooting integration specs
+
+**Thoughts:** Day 55: I spent literally all day trying to figure out why my tests weren't working, and it turns out the test only works if it completes before the promise/based assertions are resolved... That weirds me out so much. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1219491517498179585?s=20)**
+
+**Link to work:** [Electron Goals](https://github.com/StephenVNelson/electron-goals)
+
+### Day 56: January 20, 2020
+
+**Today's Progress**:
+* Added validations to API request to make sure I don't overwrite valuable data
+* Refactored FB autopost code
+* Added roommate match FB post description generator for FB autopost
+
+**Thoughts:** Day 56: 6 months ago I created a roommate matching app to help UCLA students pair up for housing. I made a new tool in 3 hours today to auto-post on FB for those seeking roommates and I think may outperform the web app I spent several weeks creating. #100DaysOfCode
+
+**[Link to Tweet](https://twitter.com/StephenVNelson/status/1219491966137720837?s=20)**
+
+**Link to work:** [Auto Add Post](https://github.com/StephenVNelson/Auto-Ad-Post)
